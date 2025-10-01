@@ -1,0 +1,30 @@
+h1{
+    background-color: darkgreen;
+    font-family: "Noto Serif";
+    font-weight: 900;
+    text-align: right;
+}
+
+#PrimeiroParagrafo{
+
+    background-color: lightgreen;
+
+}
+
+.Paragrafo{
+
+    color: purple;
+
+}
+
+p[draggable = "true"]{
+
+    background-color: grey;
+
+}
+
+p[draggable = "false"]{
+
+    background-color: lightblue;
+
+}
